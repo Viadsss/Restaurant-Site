@@ -65,21 +65,21 @@ function loadMenu() {
       '$9.50',
       '700 Calories',
       'Steak with Potato',
-      '/dist/imgs/dishes/Steak-with-Potato.png'
+      '../src/assets/dishes/Steak-with-Potato.png'
     ),
     createFood(
       'Chicken Salad',
       '$6.00',
       '400 Calories',
       'Chicken Salad',
-      '/dist/imgs/dishes/Chicken-Salad.png'
+      '../src/assets/dishes/Chicken-Salad.png'
     ),
     createFood(
       'Salmon-Fennel Salad',
       '$7.00',
       '350 Calories',
       'Salmon-Fennel Salad',
-      '/dist/imgs/dishes/Salmon-Fennel-Salad.png'
+      '../src/assets/dishes/Salmon-Fennel-Salad.png'
     ),
 
     createFood(
@@ -87,7 +87,7 @@ function loadMenu() {
       '$8.50',
       '600 Calories',
       'Steak with Tomato',
-      '/dist/imgs/dishes/Steak-with-Tomato.png'
+      '../src/assets/dishes/Steak-with-Tomato.png'
     ),
 
     createFood(
@@ -95,7 +95,7 @@ function loadMenu() {
       '$7.00',
       '750 Calories',
       'Chicken with Rice',
-      '/dist/imgs/dishes/Chicken-with-Rice.png'
+      '../src/assets/dishes/Chicken-with-Rice.png'
     ),
 
     createFood(
@@ -103,7 +103,7 @@ function loadMenu() {
       '$6.50',
       '300 Calories',
       'Salmon Stack',
-      '/dist/imgs/dishes/Salmon-Stack.png'
+      '../src/assets/dishes/Salmon-Stack.png'
     ),
     
     createFood(
@@ -111,7 +111,7 @@ function loadMenu() {
       '$6.00',
       '350 Calories',
       'Raw Salmon Salad',
-      '/dist/imgs/dishes/Raw-Salmon-Salad.png'
+      '../src/assets/dishes/Raw-Salmon-Salad.png'
     ),
 
     createFood(
@@ -119,7 +119,7 @@ function loadMenu() {
       '$7.50',
       '400 Calories',
       'Classic Salmon Salad',
-      '/dist/imgs/dishes/Classic-Salmon-Salad.png'
+      '../src/assets/dishes/Classic-Salmon-Salad.png'
     )
   ];
 

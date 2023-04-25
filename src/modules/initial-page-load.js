@@ -44,7 +44,7 @@ function createFooter(id, text) {
   logo.href = 'https://github.com/Viadsss';
   
   const icon = document.createElement('img');
-  icon.src = '../dist/svgs/github.svg';
+  icon.src = '../src/assets/github.svg';
   icon.width = '24';
   logo.appendChild(icon);
 
