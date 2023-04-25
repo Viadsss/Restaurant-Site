@@ -65,21 +65,21 @@ function loadMenu() {
       '$9.50',
       '700 Calories',
       'Steak with Potato',
-      '../dist/imgs/dishes/Steak-with-Potato.png'
+      '/dist/imgs/dishes/Steak-with-Potato.png'
     ),
     createFood(
       'Chicken Salad',
       '$6.00',
       '400 Calories',
       'Chicken Salad',
-      'dist/imgs/dishes/Chicken-Salad.png'
+      '/dist/imgs/dishes/Chicken-Salad.png'
     ),
     createFood(
       'Salmon-Fennel Salad',
       '$7.00',
       '350 Calories',
       'Salmon-Fennel Salad',
-      'dist/imgs/dishes/Salmon-Fennel-Salad.png'
+      '/dist/imgs/dishes/Salmon-Fennel-Salad.png'
     ),
 
     createFood(
