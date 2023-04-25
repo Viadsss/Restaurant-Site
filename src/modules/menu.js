@@ -65,7 +65,7 @@ function loadMenu() {
       '$9.50',
       '700 Calories',
       'Steak with Potato',
-      'dist/imgs/dishes/Steak-with-Potato.png'
+      '../dist/imgs/dishes/Steak-with-Potato.png'
     ),
     createFood(
       'Chicken Salad',
