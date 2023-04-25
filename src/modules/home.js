@@ -42,7 +42,7 @@ function createImageSection() {
 
   
   const img = document.createElement('img');
-  img.src = '../src/assets/man-chef.png';
+  img.src = 'imgs/mint.png';
   img.alt = 'Chef';
   img.classList.add('img-banner');
 
