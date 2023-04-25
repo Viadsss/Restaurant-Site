@@ -65,21 +65,21 @@ function loadMenu() {
       '$9.50',
       '700 Calories',
       'Steak with Potato',
-      'https://i.ibb.co/3W5FyXT/Steak-with-Potato.png'
+      'imgs/dishes/Steak-with-Potato.png'
     ),
     createFood(
       'Chicken Salad',
       '$6.00',
       '400 Calories',
       'Chicken Salad',
-      '../src/assets/dishes/Chicken-Salad.png'
+      'imgs/dishes/Chicken-Salad.png'
     ),
     createFood(
       'Salmon-Fennel Salad',
       '$7.00',
       '350 Calories',
       'Salmon-Fennel Salad',
-      '../src/assets/dishes/Salmon-Fennel-Salad.png'
+      'imgs/dishes/Salmon-Fennel-Salad.png'
     ),
 
     createFood(
@@ -87,7 +87,7 @@ function loadMenu() {
       '$8.50',
       '600 Calories',
       'Steak with Tomato',
-      '../src/assets/dishes/Steak-with-Tomato.png'
+      'imgs/dishes/Steak-with-Tomato.png'
     ),
 
     createFood(
@@ -95,7 +95,7 @@ function loadMenu() {
       '$7.00',
       '750 Calories',
       'Chicken with Rice',
-      '../src/assets/dishes/Chicken-with-Rice.png'
+      'imgs/dishes/Chicken-with-Rice.png'
     ),
 
     createFood(
@@ -103,7 +103,7 @@ function loadMenu() {
       '$6.50',
       '300 Calories',
       'Salmon Stack',
-      '../src/assets/dishes/Salmon-Stack.png'
+      'imgs/dishes/Salmon-Stack.png'
     ),
     
     createFood(
@@ -111,7 +111,7 @@ function loadMenu() {
       '$6.00',
       '350 Calories',
       'Raw Salmon Salad',
-      '../src/assets/dishes/Raw-Salmon-Salad.png'
+      'imgs/dishes/Raw-Salmon-Salad.png'
     ),
 
     createFood(
@@ -119,7 +119,7 @@ function loadMenu() {
       '$7.50',
       '400 Calories',
       'Classic Salmon Salad',
-      '../src/assets/dishes/Classic-Salmon-Salad.png'
+      'imgs/dishes/Classic-Salmon-Salad.png'
     )
   ];
 
